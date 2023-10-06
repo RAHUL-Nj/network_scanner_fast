@@ -18,12 +18,13 @@ Run the Script:
 Run the Python script using the python3 command. Assuming your script is named network_scanner.py, use the following command:
 bash
 Copy code
+
 python3 network_scanner.py 192.168.1.0/24 1-100
 Replace 192.168.1.0/24 and 1-100 with the appropriate IP range and port range you want to scan.
+
 Keep in mind that you may need to adjust the permissions to execute the script. You can do this using the chmod command. For example:
 
 bash
-
 chmod +x network_scanner.py
 
 
