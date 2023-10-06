@@ -1,3 +1,7 @@
+<img width="348" alt="Screenshot 2023-10-06 203355" src="https://github.com/RAHUL-Nj/network_scanner_fast/assets/98076310/a06cc206-ff94-4813-a49e-a9dea1cdf9b9">
+
+
+
 Open a Terminal:
 
 Open a terminal on your Kali Linux system. You can usually do this by clicking on the terminal icon on the desktop or using a keyboard shortcut like Ctrl+Alt+T.
